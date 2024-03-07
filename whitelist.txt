@@ -2,4 +2,7 @@
 ## Spiegel.de
 @@||sni.cdn.www.spiegel.de.c.footprint.net^$important
 @@||spiegel.de^$important
-
+@@||spiegel.de.ssl.sc.omtrdc.net^$important
+@@||spiegel.push.delivery^$important
+@@||spiegel.json.c.ergebnis-dienst.de^$important
+@@||spiegel.met.vgwort.de^$important
