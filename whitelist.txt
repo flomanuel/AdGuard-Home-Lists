@@ -1,0 +1,5 @@
+# Personal AdGuard Home Whitelist
+## Spiegel.de
+@@||sni.cdn.www.spiegel.de.c.footprint.net^$important
+@@||spiegel.de^$important
+
