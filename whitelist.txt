@@ -6,3 +6,8 @@
 @@||spiegel.push.delivery^$important
 @@||spiegel.json.c.ergebnis-dienst.de^$important
 @@||spiegel.met.vgwort.de^$important
+
+## southpark.de
+@@||southpark.de^
+@@||fwmrm.net^
+@@||tiqcdn.com^
