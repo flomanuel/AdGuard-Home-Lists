@@ -11,3 +11,6 @@
 @@||southpark.de^
 @@||fwmrm.net^
 @@||tiqcdn.com^
+
+## ZDF
+@@||zdf.de^
