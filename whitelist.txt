@@ -12,8 +12,6 @@
 @@||fwmrm.net^
 @@||tiqcdn.com^
 
-## ZDF
-@@||zdf.de^
-
 ## Other
 @@||studyflix.de^
+@@||zdf.de^
