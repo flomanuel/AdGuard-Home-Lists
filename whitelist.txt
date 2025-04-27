@@ -14,3 +14,6 @@
 
 ## ZDF
 @@||zdf.de^
+
+## Misc
+@@||studyflix.de^
