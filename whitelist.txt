@@ -12,8 +12,14 @@
 @@||fwmrm.net^
 @@||tiqcdn.com^
 
+## Office & Microsoft
+@@||officeapps.live.com^
+@@||live.com^
+@@||office.com^
+@@||microsoftpersonalcontent.com^
+@@||azure.com^
+@@||microsoft.com^
+
 ## Other
 @@||studyflix.de^
 @@||zdf.de^
-@@||officeapps.live.com^
-@@||live.com^
